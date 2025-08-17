@@ -1,104 +1,104 @@
 #EXTM3U
 
 
-##########################AnalogCableTV##########################
+##########################MoonlightBayPlus##########################
 
-#EXTINF:-1 ch-number="1" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans TV HD
+#EXTINF:-1 ch-number="1" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/1-Trans-TV.png",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1865456627_b744100_sleng.m3u8
 
-#EXTINF:-1 ch-number="2" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans 7 HD
+#EXTINF:-1 ch-number="2" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/2-Trans-7.png",Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1442332481_b744100_sleng.m3u8
 
-#EXTINF:-1 ch-number="3" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNN Indonesia HD
+#EXTINF:-1 ch-number="3" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/3-CNN-Indonesia.png",CNN Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w897670761_b384000_sleng.m3u8
 
-#EXTINF:-1 ch-number="4" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNBC Indonesia HD
+#EXTINF:-1 ch-number="4" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/4-CNBC-Indonesia.png",CNBC Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1168289365_b384000_sleng.m3u8
 
-#EXTINF:-1 ch-number="5" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Indosiar HD
+#EXTINF:-1 ch-number="5" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/5-Indosiar.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SCTV HD
+#EXTINF:-1 ch-number="6" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/6-SCTV.png",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="7" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RCTI HD
+#EXTINF:-1 ch-number="7" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/7-RCTI.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 ch-number="8" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GTV HD
+#EXTINF:-1 ch-number="8" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/8-GTV.png",GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
-#EXTINF:-1 ch-number="9" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MNCTV HD
+#EXTINF:-1 ch-number="9" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/9-MNCTV.png",MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
-#EXTINF:-1 ch-number="10" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Metro TV HD
+#EXTINF:-1 ch-number="10" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/10-Metro-TV.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RTV HD
+#EXTINF:-1 ch-number="11" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/11-RTV.png",RTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="12" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",tvOne HD
+#EXTINF:-1 ch-number="12" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/12-TV-One.png",tvOne HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="13" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",ANTV
+#EXTINF:-1 ch-number="13" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/13-ANTV.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-#EXTINF:-1 ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",iNews HD
+#EXTINF:-1 ch-number="14" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/14-iNews.png",iNews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
-#EXTINF:-1 ch-number="15" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Kompas TV HD
+#EXTINF:-1 ch-number="15" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/15-Kompas-TV.png",Kompas TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="16" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAKTV HD
+#EXTINF:-1 ch-number="16" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/16-JAKTV.png",JAKTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="17" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI HD
+#EXTINF:-1 ch-number="17" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/17-TVRI.png",TVRI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
 
-#EXTINF:-1 ch-number="18" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MOJI HD
+#EXTINF:-1 ch-number="18" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/18-MOJI.png",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="19" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MDTV HD
+#EXTINF:-1 ch-number="19" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/19-MDTV.png",MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="20" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",VTV HD
+#EXTINF:-1 ch-number="20" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/20-VTV.png",VTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://momoyotv.github.io/eds/live/m3u8/VTV.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="21" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BTV HD
+#EXTINF:-1 ch-number="21" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/21-BTV.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="22" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Mentari TV HD
+#EXTINF:-1 ch-number="22" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/22-Mentari-TV.png",Mentari TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://iptvid.my.id/avc/CuteShibaInu/gasukatugas1005/mentaritv.m3u8
 
-#EXTINF:-1 ch-number="23" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Nusantara TV HD
+#EXTINF:-1 ch-number="23" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/23-Nusantara-TV.png",Nusantara TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="24" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Berita Satu HD
+#EXTINF:-1 ch-number="24" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/24-Berita-Satu.png",Berita Satu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h128/S4/mnf.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 ch-number="25" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",DAAI TV HD
+#EXTINF:-1 ch-number="25" tvg-logo="https://cuteshibainu632.github.io/MoonlightBayPlus/Logo/25-DAAI-TV.png",DAAI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
